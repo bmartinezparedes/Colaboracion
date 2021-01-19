@@ -4,7 +4,7 @@ public class Pablo {
 
     public void amosar(){
 
-        System.out.printf("sin merge");
+        System.out.printf("merge");
     }
 
 }
